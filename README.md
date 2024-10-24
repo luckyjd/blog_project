@@ -1,2 +1,2 @@
 # blog_project
-naru simple place
+naru simple place  
